@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FZJ-INM-9/.github/blob/main/profile/INM-9.jpeg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/FZJ-INM-9/.github/blob/main/profile/INM-9.jpeg">
-  <img alt="Shows a GPCR fish-eyed picture of a JSC supercomputer " src="https://github.com/FZJ-INM-9/.github/blob/main/profile/INM-9.jpeg">
+  <img alt="Shows a ligand binding to a GPCR protein overimposed on a fish-eyed picture of a JSC supercomputer" src="https://github.com/FZJ-INM-9/.github/blob/main/profile/INM-9.jpeg">
 </picture>
 
 Institute of Neurosciences and Medicine (INM)
